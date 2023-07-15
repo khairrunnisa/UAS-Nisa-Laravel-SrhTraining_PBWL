@@ -23,7 +23,7 @@
         }
     </style>
     <div class="table-container">
-        <h2 class="table-left">Data Kelas
+        <h2 class="table-left">Data Sekolah
             <a class="btn btn-success btn-sm float-end" href="{{ url('sekolah/create') }}">Tambah Data Sekolah</a>
         </h2>
         <div class="table-container">
